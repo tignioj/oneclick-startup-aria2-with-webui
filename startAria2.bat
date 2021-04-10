@@ -37,3 +37,4 @@ if "%ERRORLEVEL%"=="0" (
 
 start "" "http://localhost:%webServerPort%"
 @REM start "" "%webpath%\\docs\\index.html"
+pause
